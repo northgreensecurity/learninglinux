@@ -1,4 +1,4 @@
-# learninglinux
+# Learning Linux
 North Green Security presents "Learning Linux" a microcourse.
 
 Use the learninglinux shell script and accompanying exercise guide to become more comfortable with the following:
